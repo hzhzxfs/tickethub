@@ -5,4 +5,4 @@
 
 ## 系统架构
 
-![架构图](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20230802104007774.png)
+![系统架构图](https://s2.loli.net/2024/03/04/cbB9IxtZaqWhFzL.png)
